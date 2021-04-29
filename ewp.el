@@ -34,7 +34,7 @@
 
 ;;; Code:
 
-(require 'cl)
+(require 'cl-lib)
 (require 'metaweblog)
 (require 'mm-url)
 (require 'dired)

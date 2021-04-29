@@ -39,7 +39,7 @@
 
 ;;; Code:
 
-(require 'cl)
+(require 'cl-lib)
 
 (defvar variable-pitch-table-map
   (let ((map (make-sparse-keymap)))
